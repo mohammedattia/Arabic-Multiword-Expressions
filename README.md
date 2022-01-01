@@ -6,3 +6,5 @@ These MWEs are extracted from the Arabic wikipedia,from the Arabic Gigaword corp
 Citation:
 
 Mohammed Attia, Antonio Toral, Lamia Tounsi, Pavel Pecina and Josef van Genabith. 2010. Automatic Extraction of Arabic Multiword Expressions. COLING 2010 Workshop on Multiword Expressions: from Theory to Applications. Beijing, China.
+
+http://attiaspace.com/Publications/2010ArabicMWEs_attia_et_al.pdf
